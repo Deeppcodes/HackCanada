@@ -3,7 +3,6 @@ This project is designed to empower individuals who are preparing for their firs
 
 ## Preview
 ![image](https://github.com/user-attachments/assets/0f293cac-77a9-4efa-a043-007a5cdb1d87)
-![Image](https://github.com/user-attachments/assets/2c1a5771-b57e-4e36-8c3e-616567390d67)
 
 ## How it works:
 
