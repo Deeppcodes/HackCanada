@@ -80,9 +80,3 @@ Webcam & Media Recording: Browser's getUserMedia and MediaRecorder APIs
 AI & Feedback: Gemini AI for feedback generation
 Facial Expression Analysis: DeepFace for face detection and reaction visualization
 Transcription: (Placeholder) Video-to-text conversion functionality
-
-## Video Tutorial
-
-[![Watch the Tutorial](https://img.youtube.com/vi/WgCfUdOB6Sg/0.jpg)](https://www.youtube.com/watch?v=WgCfUdOB6Sg)
-
-Click the image above or [watch the tutorial here](https://www.youtube.com/watch?v=WgCfUdOB6Sg) to learn how to use PitchPerfect effectively.
